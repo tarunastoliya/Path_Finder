@@ -1,0 +1,10 @@
+body {
+  margin: 5;
+  font-family: 'Times New Roman', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Times New Roman', monospace;
+}
